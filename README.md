@@ -1,7 +1,9 @@
-# PC-GAN in PyTorch
+# Robust Conditional GAN from Uncertainty-Aware Pairwise Comparisons
 
 [[arXiv]](https://arxiv.org/abs/1911.09298)
 [[Supplementary]](https://github.com/phymhan/pc-gan/blob/master/pdf/pc-gan_supplementary.pdf)
+
+The code is heavily based on the PyTorch implementation of [CycleGAN-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
 ### Pretrained Models
 Coming soon...
